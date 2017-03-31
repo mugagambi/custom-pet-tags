@@ -1,2 +1,2 @@
-# dkut-chatroom
-A chatroom app in angular,firebase and angular fire2
+# Custom Pet Tag creator
+An angular 2 project to learn how to use ngrx.
